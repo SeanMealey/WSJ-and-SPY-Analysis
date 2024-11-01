@@ -32,7 +32,7 @@
 <br><code>sentiment-analysis.py</code> Uses a pre-trained NLP, finBert, to assign a score to each headline
 <br><code>llamaSentimentAnalyzer.py</code> Uses Llama 3.2 with specific system instruction to score headlines depending on how bearish or bullish they are.
 <br><code>getHeadlines.py</code> 
-<br><code>dataRead.py</code> Calculates total score for each non-holiday weekday and outputs it in json llamaSentimentAnalyzer
+<br><code>dataRead.py</code> Calculates total score for each non-holiday weekday and outputs it in json 
 <br><code>llamaDataRead.py</code> Same as <code>dataRead.py</code> 
 <br><code>dataAnalysis.py</code> and <code>getHeadlines.py</code> prints headlines and scores for manual inspection of data
 </p>
